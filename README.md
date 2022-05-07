@@ -34,10 +34,10 @@ GET /menu - Получить все меню
 GET /menu/:id - Получить один элемент по id
 POST /menu - Создать меню
 PUT /menu/:id - Обновить меню
-PUT /menu/:id - Удалить меню
+DELETE /menu/:id - Удалить меню
 GET /category - Получить все категории
 GET /category/:id - Получить один элемент по id
 POST /category - Создать категорию
 PUT /category/:id - Обновить категорию
-PUT /category/:id - Удалить категорию
+DELETE /category/:id - Удалить категорию
 ```
